@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="365b6ade-8533-4d93-9414-6493939dd9c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4Sb0Fe7qQrXsgDBMBCBsQ3ES2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.BridgeLabz.generics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_firstPosition">
+    <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtFistPosition" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.BridgeLabz.generics.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtFistPosition&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_firstPosition" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.BridgeLabz.generics.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_firstPosition&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.BridgeLabz.generics.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.BridgeLabz.generics.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BridgeLabz.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.BridgeLabz.generics" />
+      <option name="MAIN_CLASS_NAME" value="com.BridgeLabz.generics.MaximumAnalyserTests" />
+      <option name="METHOD_NAME" value="GivenThreeIntegers_findMaximumAt_thirdPosition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_firstPosition" />
+        <item itemvalue="JUnit.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition" />
+        <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition" />
+        <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtFistPosition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="365b6ade-8533-4d93-9414-6493939dd9c9" name="Default Changelist" comment="" />
+      <created>1585993441029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585993441029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585997131938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="250" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585997131938" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586010259997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586010259997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586010259997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586010259997" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586010259996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586010259996" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586010259997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586010259997" />
+    <state x="498" y="145" key="chooseDestDirectoryDialog" timestamp="1585997211654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="145" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1585997211654" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585997639912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585997639912" />
+  </component>
+</project>
