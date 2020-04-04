@@ -37,6 +37,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -73,27 +76,7 @@
       <recent name="com.BridgeLabz.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition">
-    <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtFistPosition" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.BridgeLabz.generics.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtFistPosition&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JUnit.MaximumAnalyserTests">
     <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_firstPosition" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -154,7 +137,27 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtfirstPosition_shuldReturnSameNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.BridgeLabz.generics.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtfirstPosition_shuldReturnSameNumber&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MaximumAnalyserTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.BridgeLabz.generics.test" />
       <extension name="coverage">
         <pattern>
@@ -164,19 +167,18 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.BridgeLabz.generics" />
       <option name="MAIN_CLASS_NAME" value="com.BridgeLabz.generics.MaximumAnalyserTests" />
-      <option name="METHOD_NAME" value="GivenThreeIntegers_findMaximumAt_thirdPosition" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaximumAnalyserTests" />
+        <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtfirstPosition_shuldReturnSameNumber" />
         <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition" />
         <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_secondPosition" />
         <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_firstPosition" />
-        <item itemvalue="JUnit.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAt_thirdPosition" />
-        <item itemvalue="Gradle.MaximumAnalyserTests.GivenThreeIntegers_findMaximumAtFistPosition" />
       </list>
     </recent_temporary>
   </component>
@@ -198,22 +200,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="250" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585997131938" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586011173069">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586011571765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586011173069" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586011173068">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586011571765" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586011571765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586011173068" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586011173068">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586011571765" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586011571765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586011173068" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586011173069">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586011571765" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586011571765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586011173069" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586011571765" />
     <state x="498" y="145" key="chooseDestDirectoryDialog" timestamp="1585997211654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
