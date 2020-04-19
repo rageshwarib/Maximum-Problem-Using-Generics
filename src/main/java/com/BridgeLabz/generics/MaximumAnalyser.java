@@ -8,6 +8,7 @@ public class MaximumAnalyser<T extends Comparable<T>> {
     private T second;
     private T third;
     T[] arrayElements;
+    private Object maximumResult;
 
     //default constructor
     public MaximumAnalyser() {
@@ -26,6 +27,11 @@ public class MaximumAnalyser<T extends Comparable<T>> {
     public <T extends Comparable<T>> T findMaximum(){
 
         return (T) findMaximum(arrayElements);
+    }
+
+
+    public <T> void printMaximum(T maximumResult) {
+        System.out.println("Maximum Result :" +maximumResult);
     }
 }
 
