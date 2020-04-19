@@ -1,32 +1,31 @@
 package com.BridgeLabz.generics;
 
+import java.util.Arrays;
+
 public class MaximumAnalyser<T extends Comparable<T>> {
 
     private T first;
     private T second;
     private T third;
+    T[] arrayElements;
 
+    //default constructor
     public MaximumAnalyser() {
     }
     //Parameterized Constructor
-    public MaximumAnalyser(T first, T second, T third){
-        this.first = first;
-        this.second = second;
-        this.third = third;
+    public MaximumAnalyser(T[] arrayElement){
+        this.arrayElements = arrayElement;
     }
 
     //Generic Method for finding Maximum from three elements
-    public T findMaximum(T first, T second, T third)
+    public T findMaximum(T...arrayElement)
     {
-        if (first.compareTo(second) > 0 && first.compareTo(third) > 0)
-            return first;
-        else if (second.compareTo(first) > 0 && second.compareTo(third) > 0)
-            return second;
-        else
-            return third;
+        Arrays.sort(arrayElement);
+        return arrayElement[arrayElement.length-1];
     }
     public <T extends Comparable<T>> T findMaximum(){
-        return (T) findMaximum(first, second, third);
+
+        return (T) findMaximum(arrayElements);
     }
 }
 
